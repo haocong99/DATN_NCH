@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=1 Pin=C4-2
+Removed Pin From Net: NetName=2 Pin=C5-2
+Removed Pin From Net: NetName=4 Pin=C8-2
+Removed Pin From Net: NetName=5 Pin=C9-2
+Removed Pin From Net: NetName=1 Pin=NGAN MACH-3
+Removed Pin From Net: NetName=2 Pin=NGAN MACH-4
+Removed Pin From Net: NetName=4 Pin=NGAN MACH-6
+Removed Pin From Net: NetName=5 Pin=NGAN MACH-7
+Added Pin To Net: NetName=5 Pin=C4-2
+Added Pin To Net: NetName=4 Pin=C5-2
+Added Pin To Net: NetName=2 Pin=C8-2
+Added Pin To Net: NetName=1 Pin=C9-2
+Added Pin To Net: NetName=5 Pin=NGAN MACH-3
+Added Pin To Net: NetName=4 Pin=NGAN MACH-4
+Added Pin To Net: NetName=2 Pin=NGAN MACH-6
+Added Pin To Net: NetName=1 Pin=NGAN MACH-7

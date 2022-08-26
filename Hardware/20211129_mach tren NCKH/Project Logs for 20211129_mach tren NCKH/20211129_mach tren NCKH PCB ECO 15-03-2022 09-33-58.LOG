@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=3V3 Pin=NGAN MACH-1
+Removed Pin From Net: NetName=WIFI Pin=NGAN MACH-2
+Removed Pin From Net: NetName=5 Pin=NGAN MACH-3
+Removed Pin From Net: NetName=4 Pin=NGAN MACH-4
+Removed Pin From Net: NetName=3 Pin=NGAN MACH-5
+Removed Pin From Net: NetName=2 Pin=NGAN MACH-6
+Removed Pin From Net: NetName=1 Pin=NGAN MACH-7
+Added Pin To Net: NetName=5 Pin=NGAN MACH-1
+Added Pin To Net: NetName=4 Pin=NGAN MACH-2
+Added Pin To Net: NetName=3 Pin=NGAN MACH-3
+Added Pin To Net: NetName=2 Pin=NGAN MACH-4
+Added Pin To Net: NetName=1 Pin=NGAN MACH-5
+Added Pin To Net: NetName=WIFI Pin=NGAN MACH-6
+Added Pin To Net: NetName=3V3 Pin=NGAN MACH-7

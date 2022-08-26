@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetAC OUT 1_2 Pin=RL1-1
+Removed Pin From Net: NetName=NetAC OUT 1_1 Pin=RL1-2
+Added Pin To Net: NetName=NetAC OUT 1_1 Pin=RL1-1
+Added Pin To Net: NetName=NetAC OUT 1_2 Pin=RL1-2
+Change Net Name : Old Net Name=NetAC OUT 1_1 New Net Name=PLC1
+Added Room: Name=20211127_mach duoi NCKH

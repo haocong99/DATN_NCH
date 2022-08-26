@@ -1,0 +1,493 @@
+Removed Pin From Net: NetName=WIFI Pin=1-2
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=5 Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=4 Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=3 Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=2 Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=1 Pin=C9-2
+Removed Pin From Net: NetName=5V Pin=CAP 1-1
+Removed Pin From Net: NetName=GND Pin=CAP 1-2
+Removed Pin From Net: NetName=GND Pin=cc3-1
+Removed Pin From Net: NetName=5V Pin=cc3-2
+Removed Pin From Net: NetName=GND Pin=DC-DC-GND IN
+Removed Pin From Net: NetName=GND Pin=DC-DC-GND OUT
+Removed Pin From Net: NetName=5V Pin=DC-DC-IN
+Removed Pin From Net: NetName=A5 Pin=DC-DC-OUT
+Removed Pin From Net: NetName=GND Pin=FERITE1-1
+Removed Pin From Net: NetName=AGND Pin=FERITE1-2
+Removed Pin From Net: NetName=AGND Pin=header1-2
+Removed Pin From Net: NetName=AGND Pin=header2-2
+Removed Pin From Net: NetName=AGND Pin=header3-2
+Removed Pin From Net: NetName=AGND Pin=header4-2
+Removed Pin From Net: NetName=AGND Pin=header5-2
+Removed Pin From Net: NetName=CONG AP Pin=JP1-1
+Removed Pin From Net: NetName=CONG AP Pin=JP2-1
+Removed Pin From Net: NetName=CONG AP Pin=JP3-1
+Removed Pin From Net: NetName=CONG AP Pin=JP4-1
+Removed Pin From Net: NetName=CONG AP Pin=JP5-1
+Removed Pin From Net: NetName=SHUNT 1 Pin=kenh 1-5
+Removed Pin From Net: NetName=U SO SANH 1 Pin=kenh 1-6
+Removed Pin From Net: NetName=1 Pin=kenh 1-7
+Removed Pin From Net: NetName=SHUNT 2 Pin=kenh 2-5
+Removed Pin From Net: NetName=U SO SANH 2 Pin=kenh 2-6
+Removed Pin From Net: NetName=2 Pin=kenh 2-7
+Removed Pin From Net: NetName=SHUNT 3 Pin=kenh 3-5
+Removed Pin From Net: NetName=U SO SANH 3 Pin=kenh 3-6
+Removed Pin From Net: NetName=3 Pin=kenh 3-7
+Removed Pin From Net: NetName=SHUNT 4 Pin=kenh 4-5
+Removed Pin From Net: NetName=U SO SANH 4 Pin=kenh 4-6
+Removed Pin From Net: NetName=4 Pin=kenh 4-7
+Removed Pin From Net: NetName=SHUNT 5 Pin=kenh 5-5
+Removed Pin From Net: NetName=U SO SANH 5 Pin=kenh 5-6
+Removed Pin From Net: NetName=5 Pin=kenh 5-7
+Removed Pin From Net: NetName=1 Pin=R11-1
+Removed Pin From Net: NetName=3V3 Pin=R11-2
+Removed Pin From Net: NetName=2 Pin=R15-1
+Removed Pin From Net: NetName=3V3 Pin=R15-2
+Removed Pin From Net: NetName=3 Pin=R22-1
+Removed Pin From Net: NetName=3V3 Pin=R22-2
+Removed Pin From Net: NetName=4 Pin=R25-1
+Removed Pin From Net: NetName=3V3 Pin=R25-2
+Removed Pin From Net: NetName=5 Pin=R29-1
+Removed Pin From Net: NetName=3V3 Pin=R29-2
+Removed Pin From Net: NetName=GND Pin=R49-1
+Removed Member From Class: ClassName=20211129_mach tren NCKH Member=C4
+Removed Member From Class: ClassName=20211129_mach tren NCKH Member=C5
+Removed Member From Class: ClassName=20211129_mach tren NCKH Member=C7
+Removed Member From Class: ClassName=20211129_mach tren NCKH Member=C8
+Removed Member From Class: ClassName=20211129_mach tren NCKH Member=C9
+Removed Member From Class: ClassName=20211129_mach tren NCKH Member=CAP 1
+Removed Member From Class: ClassName=20211129_mach tren NCKH Member=cc3
+Removed Member From Class: ClassName=20211129_mach tren NCKH Member=DC-DC
+Removed Member From Class: ClassName=20211129_mach tren NCKH Member=FERITE1
+Removed Member From Class: ClassName=20211129_mach tren NCKH Member=header1
+Removed Member From Class: ClassName=20211129_mach tren NCKH Member=header2
+Removed Member From Class: ClassName=20211129_mach tren NCKH Member=header3
+Removed Member From Class: ClassName=20211129_mach tren NCKH Member=header4
+Removed Member From Class: ClassName=20211129_mach tren NCKH Member=header5
+Removed Member From Class: ClassName=20211129_mach tren NCKH Member=JP1
+Removed Member From Class: ClassName=20211129_mach tren NCKH Member=JP2
+Removed Member From Class: ClassName=20211129_mach tren NCKH Member=JP3
+Removed Member From Class: ClassName=20211129_mach tren NCKH Member=JP4
+Removed Member From Class: ClassName=20211129_mach tren NCKH Member=JP5
+Change Component Comment : Designator=R11 Old Comment=1k New Comment=470
+Change Component Comment : Designator=R15 Old Comment=1k New Comment=470
+Change Component Comment : Designator=R22 Old Comment=1k New Comment=470
+Change Component Comment : Designator=R25 Old Comment=1k New Comment=470
+Change Component Comment : Designator=R29 Old Comment=1k New Comment=470
+Change Component Comment : Designator=C6 Old Comment=104 New Comment=105
+Added Component: Designator=A0505S(A0505S)
+Added Component: Designator=kenh 6(DIP8)
+Added Component: Designator=kenh 7(DIP8)
+Added Component: Designator=kenh 8(DIP8)
+Added Component: Designator=kenh 9(DIP8)
+Added Component: Designator=kenh 10(DIP8)
+Added Component: Designator=kenh 11(DIP8)
+Added Component: Designator=R55(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=R56(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=R57(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=R58(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=R59(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=R60(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=R61(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=R62(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=R63(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=R64(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=R65(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=R66(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=R67(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=R68(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=R69(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=R70(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=R71(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=R72(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=R73(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=R74(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=R75(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=R76(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=R77(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=R78(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=R79(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=R80(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=R81(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=R82(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=R83(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=A0505S-0
+Added Pin To Net: NetName=5V Pin=A0505S-5V
+Added Pin To Net: NetName=GND Pin=A0505S-GND
+Added Pin To Net: NetName=5V Pin=A0505S-V+
+Added Pin To Net: NetName=TX Pin=DUE-1-TX
+Added Pin To Net: NetName=U SO SANH 1 Pin=kenh 1-5
+Added Pin To Net: NetName=SHUNT 1 Pin=kenh 1-6
+Added Pin To Net: NetName=U SO SANH 2 Pin=kenh 2-5
+Added Pin To Net: NetName=SHUNT 2 Pin=kenh 2-6
+Added Pin To Net: NetName=U SO SANH 3 Pin=kenh 3-5
+Added Pin To Net: NetName=SHUNT 3 Pin=kenh 3-6
+Added Pin To Net: NetName=U SO SANH 4 Pin=kenh 4-5
+Added Pin To Net: NetName=SHUNT 4 Pin=kenh 4-6
+Added Pin To Net: NetName=U SO SANH 5 Pin=kenh 5-5
+Added Pin To Net: NetName=SHUNT 5 Pin=kenh 5-6
+Added Pin To Net: NetName=GND Pin=kenh 6-3
+Added Pin To Net: NetName=GND Pin=kenh 6-5
+Added Pin To Net: NetName=5V Pin=kenh 6-8
+Added Pin To Net: NetName=GND Pin=kenh 7-3
+Added Pin To Net: NetName=GND Pin=kenh 7-5
+Added Pin To Net: NetName=5V Pin=kenh 7-8
+Added Pin To Net: NetName=GND Pin=kenh 8-3
+Added Pin To Net: NetName=5V Pin=kenh 8-8
+Added Pin To Net: NetName=U SO SANH 2 Pin=kenh 9-3
+Added Pin To Net: NetName=GND Pin=kenh 9-4
+Added Pin To Net: NetName=U SO SANH 1 Pin=kenh 9-5
+Added Pin To Net: NetName=3V3 Pin=kenh 9-8
+Added Pin To Net: NetName=U SO SANH 4 Pin=kenh 10-3
+Added Pin To Net: NetName=GND Pin=kenh 10-4
+Added Pin To Net: NetName=U SO SANH 3 Pin=kenh 10-5
+Added Pin To Net: NetName=U SO SANH 5 Pin=kenh 11-3
+Added Pin To Net: NetName=GND Pin=kenh 11-4
+Added Pin To Net: NetName=AGND Pin=LM358-1
+Added Pin To Net: NetName=AGND Pin=LM358-2
+Added Pin To Net: NetName=GND Pin=LM358-3
+Added Pin To Net: NetName=3V3 Pin=R11-1
+Added Pin To Net: NetName=WIFI Pin=R11-2
+Added Pin To Net: NetName=3V3 Pin=R15-1
+Added Pin To Net: NetName=3V3 Pin=R22-1
+Added Pin To Net: NetName=WIFI Pin=R55-2
+Added Pin To Net: NetName=A5 Pin=R56-1
+Added Pin To Net: NetName=3V3 Pin=R56-2
+Added Pin To Net: NetName=GND Pin=R57-1
+Added Pin To Net: NetName=A5 Pin=R57-2
+Added Pin To Net: NetName=3V3 Pin=R68-1
+Added Pin To Net: NetName=3V3 Pin=R69-1
+Added Pin To Net: NetName=3V3 Pin=R72-1
+Added Pin To Net: NetName=3V3 Pin=R73-1
+Added Pin To Net: NetName=3V3 Pin=R76-1
+Added Pin To Net: NetName=3V3 Pin=R77-1
+Added Pin To Net: NetName=3V3 Pin=R80-1
+Added Pin To Net: NetName=3V3 Pin=R81-1
+Added Pin To Net: NetName=-5V Pin=A0505S-V-
+Added Pin To Net: NetName=-5V Pin=kenh 6-4
+Added Pin To Net: NetName=-5V Pin=kenh 7-4
+Added Pin To Net: NetName=-5V Pin=kenh 8-4
+Added Net: Name=-5V
+Added Pin To Net: NetName=3V4 Pin=kenh 10-8
+Added Pin To Net: NetName=3V4 Pin=kenh 11-8
+Added Net: Name=3V4
+Added Pin To Net: NetName=in shunt1 Pin=kenh 1-3
+Added Pin To Net: NetName=in shunt1 Pin=R59-1
+Added Net: Name=in shunt1
+Added Pin To Net: NetName=in shunt2 Pin=kenh 2-3
+Added Pin To Net: NetName=in shunt2 Pin=R60-1
+Added Net: Name=in shunt2
+Added Pin To Net: NetName=in shunt3 Pin=kenh 3-3
+Added Pin To Net: NetName=in shunt3 Pin=R62-1
+Added Net: Name=in shunt3
+Added Pin To Net: NetName=in shunt4 Pin=kenh 4-3
+Added Pin To Net: NetName=in shunt4 Pin=R63-1
+Added Net: Name=in shunt4
+Added Pin To Net: NetName=in shunt5 Pin=kenh 5-3
+Added Pin To Net: NetName=in shunt5 Pin=R64-1
+Added Net: Name=in shunt5
+Added Pin To Net: NetName=Net1_2 Pin=1-2
+Added Net: Name=Net1_2
+Added Pin To Net: NetName=NetCT1_1 Pin=R1-2
+Added Pin To Net: NetName=NetCT1_1 Pin=R2-2
+Added Net: Name=NetCT1_1
+Added Pin To Net: NetName=NetCT2_1 Pin=R3-2
+Added Pin To Net: NetName=NetCT2_1 Pin=R4-2
+Added Net: Name=NetCT2_1
+Added Pin To Net: NetName=NetCT3_1 Pin=R5-2
+Added Pin To Net: NetName=NetCT3_1 Pin=R6-2
+Added Net: Name=NetCT3_1
+Added Pin To Net: NetName=NetCT4_1 Pin=R7-2
+Added Pin To Net: NetName=NetCT4_1 Pin=R8-2
+Added Net: Name=NetCT4_1
+Added Pin To Net: NetName=NetCT5_1 Pin=R9-2
+Added Pin To Net: NetName=NetCT5_1 Pin=R10-2
+Added Net: Name=NetCT5_1
+Added Pin To Net: NetName=Netkenh 6_2 Pin=kenh 6-2
+Added Pin To Net: NetName=Netkenh 6_2 Pin=R60-2
+Added Pin To Net: NetName=Netkenh 6_2 Pin=R65-1
+Added Net: Name=Netkenh 6_2
+Added Pin To Net: NetName=Netkenh 6_6 Pin=kenh 6-6
+Added Pin To Net: NetName=Netkenh 6_6 Pin=R58-1
+Added Pin To Net: NetName=Netkenh 6_6 Pin=R59-2
+Added Net: Name=Netkenh 6_6
+Added Pin To Net: NetName=Netkenh 7_2 Pin=kenh 7-2
+Added Pin To Net: NetName=Netkenh 7_2 Pin=R63-2
+Added Pin To Net: NetName=Netkenh 7_2 Pin=R66-1
+Added Net: Name=Netkenh 7_2
+Added Pin To Net: NetName=Netkenh 7_6 Pin=kenh 7-6
+Added Pin To Net: NetName=Netkenh 7_6 Pin=R61-1
+Added Pin To Net: NetName=Netkenh 7_6 Pin=R62-2
+Added Net: Name=Netkenh 7_6
+Added Pin To Net: NetName=Netkenh 8_2 Pin=kenh 8-2
+Added Pin To Net: NetName=Netkenh 8_2 Pin=R64-2
+Added Pin To Net: NetName=Netkenh 8_2 Pin=R67-1
+Added Net: Name=Netkenh 8_2
+Added Pin To Net: NetName=NetQ1_1 Pin=R55-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ2_1 Pin=R25-1
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ3_1 Pin=R29-1
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ4_1 Pin=R70-1
+Added Net: Name=NetQ4_1
+Added Pin To Net: NetName=NetQ5_1 Pin=R71-1
+Added Net: Name=NetQ5_1
+Added Pin To Net: NetName=NetQ6_1 Pin=R74-1
+Added Net: Name=NetQ6_1
+Added Pin To Net: NetName=NetQ7_1 Pin=R75-1
+Added Net: Name=NetQ7_1
+Added Pin To Net: NetName=NetQ8_1 Pin=R78-1
+Added Net: Name=NetQ8_1
+Added Pin To Net: NetName=NetQ9_1 Pin=R79-1
+Added Net: Name=NetQ9_1
+Added Pin To Net: NetName=NetQ10_1 Pin=R82-1
+Added Net: Name=NetQ10_1
+Added Pin To Net: NetName=NetQ11_1 Pin=R83-1
+Added Net: Name=NetQ11_1
+Added Pin To Net: NetName=OUT SHUNT 1+ Pin=kenh 1-7
+Added Pin To Net: NetName=OUT SHUNT 1+ Pin=R22-2
+Added Pin To Net: NetName=OUT SHUNT 1+ Pin=R29-2
+Added Net: Name=OUT SHUNT 1+
+Added Pin To Net: NetName=OUT SHUNT 1- Pin=kenh 9-7
+Added Pin To Net: NetName=OUT SHUNT 1- Pin=R15-2
+Added Pin To Net: NetName=OUT SHUNT 1- Pin=R25-2
+Added Net: Name=OUT SHUNT 1-
+Added Pin To Net: NetName=OUT SHUNT 2+ Pin=kenh 2-7
+Added Pin To Net: NetName=OUT SHUNT 2+ Pin=R69-2
+Added Pin To Net: NetName=OUT SHUNT 2+ Pin=R71-2
+Added Net: Name=OUT SHUNT 2+
+Added Pin To Net: NetName=OUT SHUNT 2- Pin=kenh 9-1
+Added Pin To Net: NetName=OUT SHUNT 2- Pin=R68-2
+Added Pin To Net: NetName=OUT SHUNT 2- Pin=R70-2
+Added Net: Name=OUT SHUNT 2-
+Added Pin To Net: NetName=OUT SHUNT 3+ Pin=kenh 3-7
+Added Pin To Net: NetName=OUT SHUNT 3+ Pin=R73-2
+Added Pin To Net: NetName=OUT SHUNT 3+ Pin=R75-2
+Added Net: Name=OUT SHUNT 3+
+Added Pin To Net: NetName=OUT SHUNT 3- Pin=kenh 10-7
+Added Pin To Net: NetName=OUT SHUNT 3- Pin=R72-2
+Added Pin To Net: NetName=OUT SHUNT 3- Pin=R74-2
+Added Net: Name=OUT SHUNT 3-
+Added Pin To Net: NetName=OUT SHUNT 4+ Pin=kenh 4-7
+Added Pin To Net: NetName=OUT SHUNT 4+ Pin=R77-2
+Added Pin To Net: NetName=OUT SHUNT 4+ Pin=R79-2
+Added Net: Name=OUT SHUNT 4+
+Added Pin To Net: NetName=OUT SHUNT 4- Pin=kenh 10-1
+Added Pin To Net: NetName=OUT SHUNT 4- Pin=R76-2
+Added Pin To Net: NetName=OUT SHUNT 4- Pin=R78-2
+Added Net: Name=OUT SHUNT 4-
+Added Pin To Net: NetName=OUT SHUNT 5+ Pin=kenh 5-7
+Added Pin To Net: NetName=OUT SHUNT 5+ Pin=R81-2
+Added Pin To Net: NetName=OUT SHUNT 5+ Pin=R83-2
+Added Net: Name=OUT SHUNT 5+
+Added Pin To Net: NetName=OUT SHUNT 5- Pin=kenh 11-1
+Added Pin To Net: NetName=OUT SHUNT 5- Pin=R80-2
+Added Pin To Net: NetName=OUT SHUNT 5- Pin=R82-2
+Added Net: Name=OUT SHUNT 5-
+Added Pin To Net: NetName=SHUNT 1- Pin=kenh 6-7
+Added Pin To Net: NetName=SHUNT 1- Pin=kenh 9-6
+Added Pin To Net: NetName=SHUNT 1- Pin=R58-2
+Added Net: Name=SHUNT 1-
+Added Pin To Net: NetName=SHUNT 2- Pin=kenh 6-1
+Added Pin To Net: NetName=SHUNT 2- Pin=kenh 9-2
+Added Pin To Net: NetName=SHUNT 2- Pin=R65-2
+Added Net: Name=SHUNT 2-
+Added Pin To Net: NetName=SHUNT 3- Pin=kenh 7-7
+Added Pin To Net: NetName=SHUNT 3- Pin=kenh 10-6
+Added Pin To Net: NetName=SHUNT 3- Pin=R61-2
+Added Net: Name=SHUNT 3-
+Added Pin To Net: NetName=SHUNT 4- Pin=kenh 7-1
+Added Pin To Net: NetName=SHUNT 4- Pin=kenh 10-2
+Added Pin To Net: NetName=SHUNT 4- Pin=R66-2
+Added Net: Name=SHUNT 4-
+Added Pin To Net: NetName=SHUNT 5- Pin=kenh 8-1
+Added Pin To Net: NetName=SHUNT 5- Pin=kenh 11-2
+Added Pin To Net: NetName=SHUNT 5- Pin=R67-2
+Added Net: Name=SHUNT 5-
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component A0505S
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component kenh 6 LM358
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component kenh 7 LM358
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component kenh 8 LM358
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component kenh 9 LM358
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component kenh 10 LM358
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component kenh 11 LM358
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component R55 470
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component R56 12K
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component R57 12K
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component R58 10k
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component R59 1k
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component R60 1k
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component R61 10k
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component R62 1k
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component R63 1k
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component R64 1k
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component R65 10k
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component R66 10k
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component R67 10k
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component R68 470
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component R69 470
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component R70 470
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component R71 470
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component R72 470
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component R73 470
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component R74 470
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component R75 470
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component R76 470
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component R77 470
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component R78 470
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component R79 470
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component R80 470
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component R81 470
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component R82 470
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component R83 470

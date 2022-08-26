@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=AC2 Pin=AC OUT 1-1
+Removed Pin From Net: NetName=NetAC OUT 1_2 Pin=Cx1-1
+Removed Pin From Net: NetName=AC2 Pin=Cx1-2
+Removed Pin From Net: NetName=AC1 Pin=RL1-1
+Removed Pin From Net: NetName=NetAC OUT 1_2 Pin=RL1-2
+Removed Member From Class: ClassName=20211127_mach duoi NCKH Member=Cx1
+Change Component Comment : Designator=R1 Old Comment=1k New Comment=560R
+Change Component Comment : Designator=R3 Old Comment=10k New Comment=560R
+Change Component Comment : Designator=R6 Old Comment=10k New Comment=560R
+Change Component Comment : Designator=R9 Old Comment=10k New Comment=560R
+Change Component Comment : Designator=R11 Old Comment=10k New Comment=560R
+Change Component Comment : Designator=4 Old Comment=470 New Comment=1K
+Change Component Comment : Designator=8 Old Comment=470 New Comment=1K
+Change Component Comment : Designator=9 Old Comment=470 New Comment=1K
+Change Component Comment : Designator=10 Old Comment=470 New Comment=1K
+Change Component Comment : Designator=11 Old Comment=470 New Comment=1K
+Change Component Comment : Designator=12 Old Comment=470 New Comment=1K
+Added Pin To Net: NetName=NetAC OUT 1_2 Pin=RL1-1
+Added Pin To Net: NetName=NetAC OUT 1_1 Pin=AC OUT 1-1
+Added Pin To Net: NetName=NetAC OUT 1_1 Pin=RL1-2
+Added Net: Name=NetAC OUT 1_1
+Added Room: Name=20211127_mach duoi NCKH

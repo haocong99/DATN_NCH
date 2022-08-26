@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=header-1
+Removed Pin From Net: NetName=5V Pin=header-2
+Removed Member From Class: ClassName=20211026_mach do qua dong Member=header

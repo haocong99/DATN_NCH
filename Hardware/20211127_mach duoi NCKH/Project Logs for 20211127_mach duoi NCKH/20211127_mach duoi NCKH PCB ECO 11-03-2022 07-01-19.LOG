@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=5V Pin=8-2
+Removed Pin From Net: NetName=5V Pin=9-2
+Removed Pin From Net: NetName=5V Pin=10-2
+Removed Pin From Net: NetName=5V Pin=11-2
+Removed Pin From Net: NetName=5V Pin=12-2
+Removed Pin From Net: NetName=GND Pin=AC-DC1-4
+Removed Pin From Net: NetName=5V Pin=cc1-2
+Removed Pin From Net: NetName=5V Pin=IC1-3
+Removed Pin From Net: NetName=GND Pin=P1-2
+Removed Pin From Net: NetName=GND Pin=Q1-1
+Removed Pin From Net: NetName=GND Pin=Q2-1
+Removed Pin From Net: NetName=GND Pin=Q3-1
+Removed Pin From Net: NetName=GND Pin=Q4-1
+Removed Pin From Net: NetName=GND Pin=Q5-1
+Removed Pin From Net: NetName=5V Pin=Qua dong-1
+Removed Pin From Net: NetName=GND Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=R4-2
+Removed Pin From Net: NetName=GND Pin=R8-2
+Removed Pin From Net: NetName=GND Pin=R10-2
+Removed Pin From Net: NetName=GND Pin=R12-2
+Added Component: Designator=AC IN?(HED2)
+Add component (AddParameter): Name = "Class"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=AC IN?-1
+Change Net Name : Old Net Name=5V New Net Name=RL 5V
+Change Net Name : Old Net Name=CLK New Net Name=CLK - 27
+Change Net Name : Old Net Name=DC New Net Name=DC - 13
+Change Net Name : Old Net Name=MOSI New Net Name=MOSI - 14
+Change Net Name : Old Net Name=RES New Net Name=RES - 12
+Added Pin To Net: NetName=5V Pin=8-2
+Added Pin To Net: NetName=5V Pin=9-2
+Added Pin To Net: NetName=5V Pin=10-2
+Added Pin To Net: NetName=5V Pin=11-2
+Added Pin To Net: NetName=5V Pin=12-2
+Added Pin To Net: NetName=5V Pin=AC IN?-2
+Added Pin To Net: NetName=5V Pin=cc1-2
+Added Pin To Net: NetName=5V Pin=IC1-3
+Added Pin To Net: NetName=5V Pin=Qua dong-1
+Added Net: Name=5V
+Added Pin To Net: NetName=RL GND Pin=AC-DC1-4
+Added Pin To Net: NetName=RL GND Pin=Q1-1
+Added Pin To Net: NetName=RL GND Pin=Q2-1
+Added Pin To Net: NetName=RL GND Pin=Q3-1
+Added Pin To Net: NetName=RL GND Pin=Q5-1
+Added Pin To Net: NetName=RL GND Pin=R2-2
+Added Pin To Net: NetName=RL GND Pin=R4-2
+Added Pin To Net: NetName=RL GND Pin=R8-2
+Added Pin To Net: NetName=RL GND Pin=R12-2
+Added Net: Name=RL GND
+Added Pin To Net: NetName=RLGND Pin=Q4-1
+Added Pin To Net: NetName=RLGND Pin=R10-2
+Added Net: Name=RLGND
+Added Member To Class: ClassName=20211127_mach duoi NCKH Member=Component AC IN? POWER

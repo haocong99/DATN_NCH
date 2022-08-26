@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=AC1 Pin=AC OUT 1-1
+Removed Pin From Net: NetName=AC1 Pin=RL1-1
+Added Pin To Net: NetName=PLC1 Pin=AC OUT 1-1
+Added Pin To Net: NetName=PLC1 Pin=RL1-1
+Added Net: Name=PLC1
+Added Room: Name=20211127_mach duoi NCKH

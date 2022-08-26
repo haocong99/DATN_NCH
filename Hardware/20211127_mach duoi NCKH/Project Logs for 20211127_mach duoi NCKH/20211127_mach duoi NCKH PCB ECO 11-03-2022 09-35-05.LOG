@@ -1,0 +1,5 @@
+Added Component: Designator=cc14(CN-SMD-0805)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RL 5V Pin=cc14-1
+Added Pin To Net: NetName=RL GND Pin=cc14-2
+Added Member To Class: ClassName=20211127_mach duoi NCKH Member=Component cc14 104

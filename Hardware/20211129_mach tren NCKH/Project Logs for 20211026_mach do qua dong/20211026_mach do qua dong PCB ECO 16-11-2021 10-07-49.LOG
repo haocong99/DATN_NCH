@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=A5 Pin=PROMINI-A5
+Added Pin To Net: NetName=A5 Pin=PROMINI-A4
+Change Net Name : Old Net Name=A5 New Net Name=A4
+Added Pin To Net: NetName=A5 Pin=cc4-1
+Added Pin To Net: NetName=A5 Pin=PROMINI-A5
+Added Pin To Net: NetName=A5 Pin=R1-1
+Added Net: Name=A5

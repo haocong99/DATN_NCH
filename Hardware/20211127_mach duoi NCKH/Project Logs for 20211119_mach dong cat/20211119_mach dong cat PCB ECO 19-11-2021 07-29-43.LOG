@@ -1,0 +1,6 @@
+Added Component: Designator=AC-DC1(HI LINK 3.3V5W, 5V5W)
+Added Pin To Net: NetName=AC2 Pin=AC-DC1-1
+Added Pin To Net: NetName=AC1 Pin=AC-DC1-2
+Added Pin To Net: NetName=5V Pin=AC-DC1-3
+Added Pin To Net: NetName=GND Pin=AC-DC1-4
+Added Member To Class: ClassName=20211119_mach dong cat Member=Component AC-DC1 Hi_Link 5V

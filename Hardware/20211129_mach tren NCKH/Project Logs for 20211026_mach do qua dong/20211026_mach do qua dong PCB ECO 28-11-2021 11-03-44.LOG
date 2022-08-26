@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=2 Pin= -2
+Removed Pin From Net: NetName=4 Pin= -4
+Removed Pin From Net: NetName=3 Pin= -~3
+Removed Pin From Net: NetName=5 Pin= -~5
+Removed Pin From Net: NetName=5 Pin=NGAT-4
+Removed Pin From Net: NetName=4 Pin=NGAT-5
+Removed Pin From Net: NetName=3 Pin=NGAT-6
+Removed Pin From Net: NetName=2 Pin=NGAT-7
+Change Component Designator: OldDesignator=  NewDesignator=DUE
+Change Net Name : Old Net Name=6 New Net Name=D6
+Added Pin To Net: NetName=D2 Pin=DUE-2
+Added Pin To Net: NetName=D2 Pin=DUE-2
+Added Pin To Net: NetName=D2 Pin=NGAT-7
+Added Net: Name=D2
+Added Pin To Net: NetName=D3 Pin=DUE-~3
+Added Pin To Net: NetName=D3 Pin=NGAT-6
+Added Net: Name=D3
+Added Pin To Net: NetName=D4 Pin=DUE-4
+Added Pin To Net: NetName=D4 Pin=NGAT-5
+Added Net: Name=D4
+Added Pin To Net: NetName=D5 Pin=DUE-~5
+Added Pin To Net: NetName=D5 Pin=NGAT-4
+Added Net: Name=D5

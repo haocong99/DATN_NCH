@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=IO4 Pin=3-2
+Removed Pin From Net: NetName=IO17 Pin=7-2
+Added Pin To Net: NetName=IO17 Pin=3-2
+Added Pin To Net: NetName=IO4 Pin=7-2
+Added Room: Name=20211119_mach dong cat

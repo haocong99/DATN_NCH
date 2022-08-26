@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VCC Pin=DS?-1
+Removed Pin From Net: NetName=GND Pin=DS?-3
+Added Pin To Net: NetName=GND Pin=DS?-1
+Added Pin To Net: NetName=VCC Pin=DS?-3

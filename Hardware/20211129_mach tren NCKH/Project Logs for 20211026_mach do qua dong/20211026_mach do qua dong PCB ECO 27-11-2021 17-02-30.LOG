@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=2 Pin=NGAT-3
+Removed Pin From Net: NetName=3 Pin=NGAT-4
+Removed Pin From Net: NetName=5 Pin=NGAT-6
+Removed Pin From Net: NetName=6 Pin=NGAT-7
+Added Component: Designator=C6(CN-SMD-0805)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=cc3(CN-SMD-0805)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A5 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=cc3-1
+Added Pin To Net: NetName=5V Pin=cc3-2
+Added Pin To Net: NetName=6 Pin=NGAT-3
+Added Pin To Net: NetName=5 Pin=NGAT-4
+Added Pin To Net: NetName=3 Pin=NGAT-6
+Added Pin To Net: NetName=2 Pin=NGAT-7
+Added Member To Class: ClassName=20211026_mach do qua dong Member=Component C6 104
+Added Member To Class: ClassName=20211026_mach do qua dong Member=Component cc3 104

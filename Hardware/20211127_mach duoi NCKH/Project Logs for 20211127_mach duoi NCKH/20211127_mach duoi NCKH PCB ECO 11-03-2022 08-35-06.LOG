@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=CLK - 14 Pin=ESP32-13
+Added Pin To Net: NetName=CLK - 14 Pin=MAN HINH-3
+Added Net: Name=CLK - 14
+Added Pin To Net: NetName=DC - 27 Pin=ESP32-12
+Added Pin To Net: NetName=DC - 27 Pin=MAN HINH-6
+Added Net: Name=DC - 27
+Added Pin To Net: NetName=MOSI - 13 Pin=ESP32-16
+Added Pin To Net: NetName=MOSI - 13 Pin=MAN HINH-4
+Added Net: Name=MOSI - 13

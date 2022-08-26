@@ -1,0 +1,66 @@
+Added Component: Designator=Q1(si2303)
+Add component (AddParameter): Name = "Value"; Value = "IRF840"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(si2303)
+Add component (AddParameter): Name = "Value"; Value = "IRF840"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(si2303)
+Add component (AddParameter): Name = "Value"; Value = "IRF840"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(si2303)
+Add component (AddParameter): Name = "Value"; Value = "IRF840"; VariantName = "[No Variations]"
+Added Component: Designator=Q5(si2303)
+Add component (AddParameter): Name = "Value"; Value = "IRF840"; VariantName = "[No Variations]"
+Added Component: Designator=Q6(si2303)
+Add component (AddParameter): Name = "Value"; Value = "IRF840"; VariantName = "[No Variations]"
+Added Component: Designator=Q7(si2303)
+Add component (AddParameter): Name = "Value"; Value = "IRF840"; VariantName = "[No Variations]"
+Added Component: Designator=Q8(si2303)
+Add component (AddParameter): Name = "Value"; Value = "IRF840"; VariantName = "[No Variations]"
+Added Component: Designator=Q9(si2303)
+Add component (AddParameter): Name = "Value"; Value = "IRF840"; VariantName = "[No Variations]"
+Added Component: Designator=Q10(si2303)
+Add component (AddParameter): Name = "Value"; Value = "IRF840"; VariantName = "[No Variations]"
+Added Component: Designator=Q11(si2303)
+Add component (AddParameter): Name = "Value"; Value = "IRF840"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=3V3 Pin=Q1-2
+Added Pin To Net: NetName=Net1_2 Pin=Q1-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=3V3 Pin=Q2-2
+Added Pin To Net: NetName=1 Pin=Q2-3
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=3V3 Pin=Q3-2
+Added Pin To Net: NetName=1 Pin=Q3-3
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=3V3 Pin=Q4-2
+Added Pin To Net: NetName=2 Pin=Q4-3
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=3V3 Pin=Q5-2
+Added Pin To Net: NetName=2 Pin=Q5-3
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=3V3 Pin=Q6-2
+Added Pin To Net: NetName=3 Pin=Q6-3
+Added Pin To Net: NetName=NetQ7_1 Pin=Q7-1
+Added Pin To Net: NetName=3V3 Pin=Q7-2
+Added Pin To Net: NetName=3 Pin=Q7-3
+Added Pin To Net: NetName=NetQ8_1 Pin=Q8-1
+Added Pin To Net: NetName=3V3 Pin=Q8-2
+Added Pin To Net: NetName=4 Pin=Q8-3
+Added Pin To Net: NetName=NetQ9_1 Pin=Q9-1
+Added Pin To Net: NetName=3V3 Pin=Q9-2
+Added Pin To Net: NetName=4 Pin=Q9-3
+Added Pin To Net: NetName=NetQ10_1 Pin=Q10-1
+Added Pin To Net: NetName=3V3 Pin=Q10-2
+Added Pin To Net: NetName=5 Pin=Q10-3
+Added Pin To Net: NetName=NetQ11_1 Pin=Q11-1
+Added Pin To Net: NetName=3V3 Pin=Q11-2
+Added Pin To Net: NetName=5 Pin=Q11-3
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component Q1 si2303
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component Q2 si2303
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component Q3 si2303
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component Q4 si2303
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component Q5 si2303
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component Q6 si2303
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component Q7 si2303
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component Q8 si2303
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component Q9 si2303
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component Q10 si2303
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component Q11 si2303

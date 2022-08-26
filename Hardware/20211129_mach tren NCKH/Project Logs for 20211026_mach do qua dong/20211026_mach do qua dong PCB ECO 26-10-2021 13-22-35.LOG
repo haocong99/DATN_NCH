@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=Ter 1-2
+Removed Member From Class: ClassName=20211026_mach do qua dong Member=Ter 1
+Added Component: Designator=header?(HED2)
+Add component (AddParameter): Name = "Class"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=header?-2
+Added Pin To Net: NetName=Netheader?_1 Pin=header?-1
+Added Pin To Net: NetName=Netheader?_1 Pin=RL1-3
+Added Net: Name=Netheader?_1
+Added Member To Class: ClassName=20211026_mach do qua dong Member=Component header? Ngu?n

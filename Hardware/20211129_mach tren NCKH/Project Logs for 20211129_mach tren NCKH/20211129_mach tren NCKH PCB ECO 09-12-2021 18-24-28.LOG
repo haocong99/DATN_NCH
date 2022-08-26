@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=3V3 Pin=NGAN MACH-2
+Removed Pin From Net: NetName=RST Pin=SW rst-1
+Removed Pin From Net: NetName=GND Pin=SW rst-2
+Removed Member From Class: ClassName=20211129_mach tren NCKH Member=SW rst
+Change Component Footprint: Designator=Qua dong Old Footprint=JP8-D1C New Footprint=JP9-D1C
+Change Component Comment : Designator=Qua dong Old Comment=JP8 New Comment=JP9
+Change component parameters: Designator = "Qua dong" ("Qua dong"); Footprint = "JP8-D1C"; UniqueID = "\GSIJUBZD" ("\GSIJUBZD")
+Change component parameters (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NoPins"; Value = "09"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partNo"; Value = "613009143121"; VariantName = "[No Variations]"
+Added Component: Designator=RESET(DIP4)
+Add component (AddParameter): Name = "Value"; Value = "PC817"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TX Pin=DUE-1-TX
+Added Pin To Net: NetName=3V3 Pin=NGAN MACH-1
+Added Pin To Net: NetName=3V3 Pin=RESET-1
+Added Pin To Net: NetName=RST Pin=RESET-3
+Added Pin To Net: NetName=GND Pin=RESET-4
+Added Pin To Net: NetName=EN Pin=Qua dong-9
+Added Pin To Net: NetName=EN Pin=RESET-2
+Added Net: Name=EN
+Added Pin To Net: NetName=WIFI Pin=1-2
+Added Pin To Net: NetName=WIFI Pin=NGAN MACH-2
+Added Net: Name=WIFI
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component RESET PC817

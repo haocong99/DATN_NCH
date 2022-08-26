@@ -1,0 +1,16 @@
+Added Component: Designator=R16(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=select(SW1-DIP)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=3V3 Pin=select-2
+Added Pin To Net: NetName=D10 Pin=DUE-~10
+Added Pin To Net: NetName=D10 Pin=R16-2
+Added Pin To Net: NetName=D10 Pin=select-1
+Added Net: Name=D10
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component R16 10K
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component select SW

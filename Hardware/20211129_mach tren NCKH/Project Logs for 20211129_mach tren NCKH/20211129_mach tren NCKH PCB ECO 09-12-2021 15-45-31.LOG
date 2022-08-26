@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=5V Pin=NGAT-1
+Removed Pin From Net: NetName=GND Pin=NGAT-2
+Removed Pin From Net: NetName=D6 Pin=NGAT-3
+Removed Pin From Net: NetName=D5 Pin=NGAT-4
+Removed Pin From Net: NetName=D4 Pin=NGAT-5
+Removed Pin From Net: NetName=D3 Pin=NGAT-6
+Removed Pin From Net: NetName=D2 Pin=NGAT-7
+Removed Pin From Net: NetName=TX Pin=NGAT-8
+Removed Member From Class: ClassName=20211026_mach do qua dong lm358 Member=NGAT
+Added Component: Designator=down irms(SW1-DIP)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=Qua dong(JP8-D1C)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613008143121"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=up irms(SW1-DIP)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=down irms-2
+Added Pin To Net: NetName=5V Pin=Qua dong-1
+Added Pin To Net: NetName=GND Pin=Qua dong-2
+Added Pin To Net: NetName=D6 Pin=Qua dong-3
+Added Pin To Net: NetName=D5 Pin=Qua dong-4
+Added Pin To Net: NetName=D4 Pin=Qua dong-5
+Added Pin To Net: NetName=D3 Pin=Qua dong-6
+Added Pin To Net: NetName=D2 Pin=Qua dong-7
+Added Pin To Net: NetName=TX Pin=Qua dong-8
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=3V3 Pin=up irms-2
+Added Pin To Net: NetName=D7 Pin=down irms-1
+Added Pin To Net: NetName=D7 Pin=DUE-7
+Added Pin To Net: NetName=D7 Pin=R12-2
+Added Net: Name=D7
+Added Pin To Net: NetName=D8 Pin=DUE-8
+Added Pin To Net: NetName=D8 Pin=R13-2
+Added Pin To Net: NetName=D8 Pin=up irms-1
+Added Net: Name=D8
+Change Class Name : Old Net Name=20211026_mach do qua dong lm358 New Net Name=20211129_mach tren NCKH
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component down irms SW
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component Qua dong JP8
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component R12 10K
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component R13 10K
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component up irms SW

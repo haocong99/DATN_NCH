@@ -1,0 +1,6 @@
+Change Component Comment : Designator=R38 Old Comment=2k New Comment=1k
+Change Component Comment : Designator=R39 Old Comment=2k New Comment=1k
+Change Component Comment : Designator=R44 Old Comment=2k New Comment=1k
+Change Component Comment : Designator=R49 Old Comment=2k New Comment=1k
+Change Component Comment : Designator=R54 Old Comment=2k New Comment=1k
+Added Pin To Net: NetName=TX Pin=DUE-1-TX

@@ -1,0 +1,5 @@
+Added Component: Designator=LM358(DIP8)
+Added Pin To Net: NetName=A5 Pin=LM358-5
+Added Pin To Net: NetName=CONG AP Pin=LM358-6
+Added Pin To Net: NetName=CONG AP Pin=LM358-7
+Added Member To Class: ClassName=20211026_mach do qua dong Member=Component LM358

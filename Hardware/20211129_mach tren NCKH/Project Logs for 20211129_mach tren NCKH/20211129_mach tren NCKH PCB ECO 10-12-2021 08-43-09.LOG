@@ -1,0 +1,58 @@
+Change Component Designator: OldDesignator=SW? NewDesignator=SW3
+Added Component: Designator=SW1(SW-DIP1-1)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(SW-DIP1-1)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW4(SW-DIP1-1)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW5(SW-DIP1-1)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW6(SW-DIP1-1)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW7(SW-DIP1-1)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW8(SW-DIP1-1)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW9(SW-DIP1-1)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW10(SW-DIP1-1)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW11(SW-DIP1-1)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW12(SW-DIP1-1)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW13(SW-DIP1-1)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW14(SW-DIP1-1)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW15(SW-DIP1-1)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW16(SW-DIP1-1)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW17(SW-DIP1-1)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW18(SW-DIP1-1)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW19(SW-DIP1-1)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW20(SW-DIP1-1)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component SW1 SW
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component SW2 SW
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component SW4 SW
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component SW5 SW
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component SW6 SW
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component SW7 SW
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component SW8 SW
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component SW9 SW
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component SW10 SW
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component SW11 SW
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component SW12 SW
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component SW13 SW
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component SW14 SW
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component SW15 SW
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component SW16 SW
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component SW17 SW
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component SW18 SW
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component SW19 SW
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component SW20 SW

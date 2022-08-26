@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetP1_1 Pin=R7-1
+Removed Member From Class: ClassName=20211026_mach do qua dong Member=R7
+Added Component: Designator=R2(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=4 Pin=R2-1
+Added Pin To Net: NetName=NetP1_1 Pin=R2-2
+Added Member To Class: ClassName=20211026_mach do qua dong Member=Component R2 1k

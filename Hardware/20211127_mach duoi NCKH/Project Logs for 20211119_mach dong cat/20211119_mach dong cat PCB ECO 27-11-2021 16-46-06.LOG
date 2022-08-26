@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=SW Boot1-1
+Removed Pin From Net: NetName=IO0 Pin=SW Boot1-2
+Removed Pin From Net: NetName=EN Pin=SW RST1-3
+Removed Pin From Net: NetName=GND Pin=SW RST1-4
+Removed Member From Class: ClassName=20211119_mach dong cat Member=SW Boot1
+Removed Member From Class: ClassName=20211119_mach dong cat Member=SW RST1
+Added Component: Designator=SW boot(SW1-DIP)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW rst(SW1-DIP)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SW boot-1
+Added Pin To Net: NetName=IO0 Pin=SW boot-2
+Added Pin To Net: NetName=GND Pin=SW rst-1
+Added Pin To Net: NetName=EN Pin=SW rst-2
+Added Member To Class: ClassName=20211119_mach dong cat Member=Component SW boot SW
+Added Member To Class: ClassName=20211119_mach dong cat Member=Component SW rst SW

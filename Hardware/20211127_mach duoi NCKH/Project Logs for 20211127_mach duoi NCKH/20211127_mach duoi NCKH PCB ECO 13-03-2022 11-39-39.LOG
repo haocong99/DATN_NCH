@@ -1,0 +1,23 @@
+Change Component Designator: OldDesignator=Cx? NewDesignator=Cx5
+Added Component: Designator=Cx1(CN2-O)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=Cx2(CN2-O)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=Cx3(CN2-O)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=Cx4(CN2-O)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetAC OUT 1_2 Pin=Cx1-1
+Added Pin To Net: NetName=AC2 Pin=Cx1-2
+Added Pin To Net: NetName=NetAC OUT 2_2 Pin=Cx2-1
+Added Pin To Net: NetName=AC2 Pin=Cx2-2
+Added Pin To Net: NetName=NetAC OUT 3_2 Pin=Cx3-1
+Added Pin To Net: NetName=AC2 Pin=Cx3-2
+Added Pin To Net: NetName=NetAC OUT 4_2 Pin=Cx4-1
+Added Pin To Net: NetName=AC2 Pin=Cx4-2
+Added Pin To Net: NetName=NetAC OUT 5_2 Pin=Cx5-1
+Added Pin To Net: NetName=AC2 Pin=Cx5-2
+Added Member To Class: ClassName=20211127_mach duoi NCKH Member=Component Cx1 XXpF
+Added Member To Class: ClassName=20211127_mach duoi NCKH Member=Component Cx2 XXpF
+Added Member To Class: ClassName=20211127_mach duoi NCKH Member=Component Cx3 XXpF
+Added Member To Class: ClassName=20211127_mach duoi NCKH Member=Component Cx4 XXpF

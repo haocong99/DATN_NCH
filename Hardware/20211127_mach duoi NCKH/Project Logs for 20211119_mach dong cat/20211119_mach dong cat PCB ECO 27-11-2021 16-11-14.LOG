@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=IO22 Pin=Qua dong-6
+Removed Pin From Net: NetName=IO23 Pin=Qua dong-7
+Added Pin To Net: NetName=IO23 Pin=Qua dong-6
+Added Pin To Net: NetName=IO22 Pin=Qua dong-7

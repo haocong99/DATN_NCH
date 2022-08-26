@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=MOSI Pin=ESP32-11
+Added Pin To Net: NetName=MOSI Pin=ESP32-24
+Added Pin To Net: NetName=WIFI Pin=ESP32-11
+Added Pin To Net: NetName=WIFI Pin=JP NGAN MACH-1
+Added Net: Name=WIFI

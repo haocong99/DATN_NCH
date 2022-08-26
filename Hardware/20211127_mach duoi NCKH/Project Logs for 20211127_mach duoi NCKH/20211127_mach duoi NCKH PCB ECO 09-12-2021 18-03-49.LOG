@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DC Pin=ESP32-13
+Removed Pin From Net: NetName=MOSI Pin=ESP32-24
+Added Pin To Net: NetName=MOSI Pin=ESP32-13
+Added Pin To Net: NetName=DC Pin=ESP32-24

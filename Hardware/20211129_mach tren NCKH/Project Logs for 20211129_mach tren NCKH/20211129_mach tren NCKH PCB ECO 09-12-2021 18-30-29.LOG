@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=TX Pin=DUE-1-TX
+Added Pin To Net: NetName=D9 Pin=down irms-1
+Added Pin To Net: NetName=D9 Pin=DUE-~9
+Added Pin To Net: NetName=D9 Pin=R12-2
+Added Net: Name=D9

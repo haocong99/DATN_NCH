@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=cc2-1
+Removed Pin From Net: NetName=5V Pin=cc2-2
+Removed Pin From Net: NetName=GND Pin=IC1-1
+Removed Pin From Net: NetName=5V Pin=IC1-3
+Removed Member From Class: ClassName=20211026_mach do qua dong Member=cc2
+Removed Member From Class: ClassName=20211026_mach do qua dong Member=IC1
+Added Pin To Net: NetName=5V Pin=CAP 1-1
+Added Pin To Net: NetName=5V Pin=cc3-2
+Added Pin To Net: NetName=5V Pin=PROMINI-VIN

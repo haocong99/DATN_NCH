@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=CONG AP Pin=OPAMP?-2
+Removed Pin From Net: NetName=A5 Pin=OPAMP?-3
+Removed Pin From Net: NetName=GND Pin=OPAMP?-4
+Removed Pin From Net: NetName=CONG AP Pin=OPAMP?-6
+Removed Pin From Net: NetName=5V Pin=OPAMP?-7
+Removed Member From Class: ClassName=20211026_mach do qua dong Member=OPAMP?
+Added Component: Designator=LM358(SO8)
+Added Pin To Net: NetName=A5 Pin=LM358-5
+Added Pin To Net: NetName=CONG AP Pin=LM358-6
+Added Member To Class: ClassName=20211026_mach do qua dong Member=Component LM358

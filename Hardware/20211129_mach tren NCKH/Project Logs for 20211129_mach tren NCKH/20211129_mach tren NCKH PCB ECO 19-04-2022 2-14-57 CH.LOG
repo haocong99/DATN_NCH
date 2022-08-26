@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=SHUNT 3 Pin=kenh 3-6
+Removed Pin From Net: NetName=SHUNT 1- Pin=kenh 9-6
+Removed Pin From Net: NetName=OUT SHUNT 4- Pin=R78-2
+Added Pin To Net: NetName=OUT SHUNT 4- Pin=Q8-1
+Added Pin To Net: NetName=OUT SHUNT 4- Pin=R78-1
+Added Room: Name=20211129_mach tren NCKH

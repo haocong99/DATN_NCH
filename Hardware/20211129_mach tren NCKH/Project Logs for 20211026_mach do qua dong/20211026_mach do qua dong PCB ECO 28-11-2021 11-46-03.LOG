@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=NGAN MACH Old Footprint=JP7-D1C New Footprint=JP7-C1T
+Added Component: Designator=JP?(JP7H)
+Add component (AddParameter): Name = "Value"; Value = "JP7"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=20211026_mach do qua dong Member=Component JP? JP7 PIN

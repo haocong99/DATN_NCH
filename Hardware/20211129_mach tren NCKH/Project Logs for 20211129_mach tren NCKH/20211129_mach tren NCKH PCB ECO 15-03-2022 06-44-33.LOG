@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=CONG AP Pin=CT1-2
+Removed Pin From Net: NetName=CONG AP Pin=CT2-2
+Removed Pin From Net: NetName=CONG AP Pin=CT3-2
+Removed Pin From Net: NetName=CONG AP Pin=CT4-2
+Removed Pin From Net: NetName=CONG AP Pin=CT5-2
+Added Pin To Net: NetName=CONG AP Pin=CT1-1
+Added Pin To Net: NetName=CONG AP Pin=CT2-1
+Added Pin To Net: NetName=CONG AP Pin=CT3-1
+Added Pin To Net: NetName=CONG AP Pin=CT4-1
+Added Pin To Net: NetName=CONG AP Pin=CT5-1
+Added Pin To Net: NetName=NetCT1_2 Pin=CT1-2
+Added Pin To Net: NetName=NetCT1_2 Pin=R1-2
+Added Pin To Net: NetName=NetCT1_2 Pin=R2-2
+Added Net: Name=NetCT1_2
+Added Pin To Net: NetName=NetCT2_2 Pin=CT2-2
+Added Pin To Net: NetName=NetCT2_2 Pin=R3-2
+Added Pin To Net: NetName=NetCT2_2 Pin=R4-2
+Added Net: Name=NetCT2_2
+Added Pin To Net: NetName=NetCT3_2 Pin=CT3-2
+Added Pin To Net: NetName=NetCT3_2 Pin=R5-2
+Added Pin To Net: NetName=NetCT3_2 Pin=R6-2
+Added Net: Name=NetCT3_2
+Added Pin To Net: NetName=NetCT4_2 Pin=CT4-2
+Added Pin To Net: NetName=NetCT4_2 Pin=R7-2
+Added Pin To Net: NetName=NetCT4_2 Pin=R8-2
+Added Net: Name=NetCT4_2
+Added Pin To Net: NetName=NetCT5_2 Pin=CT5-2
+Added Pin To Net: NetName=NetCT5_2 Pin=R9-2
+Added Pin To Net: NetName=NetCT5_2 Pin=R10-2
+Added Net: Name=NetCT5_2
+Added Member To Class: ClassName=20211129_mach tren NCKH Member=Component DUE Arduino DUE

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=IO33 Pin=JP NGAN MACH-3
+Removed Pin From Net: NetName=IO32 Pin=JP NGAN MACH-4
+Removed Pin From Net: NetName=IO27 Pin=JP NGAN MACH-5
+Removed Pin From Net: NetName=IO25 Pin=JP NGAN MACH-7
+Added Pin To Net: NetName=IO32 Pin=JP NGAN MACH-3
+Added Pin To Net: NetName=IO33 Pin=JP NGAN MACH-4
+Added Pin To Net: NetName=IO25 Pin=JP NGAN MACH-5
+Added Pin To Net: NetName=IO27 Pin=JP NGAN MACH-7

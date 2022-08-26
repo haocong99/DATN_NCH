@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=U SO SANH 2 Pin=R38-2
+Removed Pin From Net: NetName=U SO SANH 2 Pin=SW1-1
+Removed Pin From Net: NetName=U SO SANH 2 Pin=SW2-1
+Removed Pin From Net: NetName=U SO SANH 2 Pin=SW3-1
+Removed Pin From Net: NetName=U SO SANH 2 Pin=SW4-1
+Added Pin To Net: NetName=U SO SANH 4 Pin=R38-2
+Added Pin To Net: NetName=U SO SANH 4 Pin=SW1-1
+Added Pin To Net: NetName=U SO SANH 4 Pin=SW2-1
+Added Pin To Net: NetName=U SO SANH 4 Pin=SW3-1
+Added Pin To Net: NetName=U SO SANH 4 Pin=SW4-1

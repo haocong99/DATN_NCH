@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=RES Pin=ESP32-12
+Removed Pin From Net: NetName=CLK Pin=ESP32-13
+Removed Pin From Net: NetName=DC Pin=ESP32-14
+Added Pin To Net: NetName=CLK Pin=ESP32-12
+Added Pin To Net: NetName=DC Pin=ESP32-13
+Added Pin To Net: NetName=RES Pin=ESP32-14

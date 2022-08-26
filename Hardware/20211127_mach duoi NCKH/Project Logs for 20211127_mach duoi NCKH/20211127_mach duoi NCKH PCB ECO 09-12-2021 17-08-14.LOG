@@ -1,0 +1,107 @@
+Removed Pin From Net: NetName=IO33 Pin=cc3-2
+Removed Pin From Net: NetName=IO25 Pin=cc4-2
+Removed Pin From Net: NetName=IO32 Pin=JP NGAN MACH-3
+Removed Pin From Net: NetName=IO33 Pin=JP NGAN MACH-4
+Removed Pin From Net: NetName=IO25 Pin=JP NGAN MACH-5
+Removed Pin From Net: NetName=RX Pin=Qua dong-8
+Removed Pin From Net: NetName=TX Pin=Qua dong-9
+Change Component Comment : Designator=R1 Old Comment=10k New Comment=1k
+Change Component Designator: OldDesignator=LED 1 NewDesignator=LED Relay1
+Change Component Designator: OldDesignator=LED nguon1 NewDesignator=LED nguon
+Added Component: Designator=5(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=13(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=14(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=15(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=16(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=MAN HINH(JP10-D1C)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613010143121"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=5-2
+Added Pin To Net: NetName=GND Pin=13-2
+Added Pin To Net: NetName=GND Pin=14-2
+Added Pin To Net: NetName=IO32 Pin=15-1
+Added Pin To Net: NetName=GND Pin=15-2
+Added Pin To Net: NetName=GND Pin=16-2
+Added Pin To Net: NetName=IO25 Pin=C3-1
+Added Pin To Net: NetName=IO25 Pin=cc13-2
+Added Pin To Net: NetName=IO33 Pin=DS1-2
+Added Pin To Net: NetName=IO32 Pin=JP NGAN MACH-7
+Added Pin To Net: NetName=GND Pin=MAN HINH-1
+Added Pin To Net: NetName=5V Pin=MAN HINH-2
+Added Pin To Net: NetName=GND Pin=MAN HINH-8
+Added Pin To Net: NetName=EN Pin=Qua dong-9
+Added Pin To Net: NetName=IO33 Pin=R13-1
+Added Pin To Net: NetName=CLK Pin=ESP32-13
+Added Pin To Net: NetName=CLK Pin=MAN HINH-3
+Added Net: Name=CLK
+Added Pin To Net: NetName=DC Pin=ESP32-23
+Added Pin To Net: NetName=DC Pin=MAN HINH-6
+Added Net: Name=DC
+Added Pin To Net: NetName=IO34 Pin=13-1
+Added Pin To Net: NetName=IO34 Pin=cc4-2
+Added Pin To Net: NetName=IO34 Pin=ESP32-6
+Added Pin To Net: NetName=IO34 Pin=JP NGAN MACH-5
+Added Net: Name=IO34
+Added Pin To Net: NetName=IO35 Pin=16-1
+Added Pin To Net: NetName=IO35 Pin=cc6-2
+Added Pin To Net: NetName=IO35 Pin=ESP32-7
+Added Pin To Net: NetName=IO35 Pin=JP NGAN MACH-6
+Added Net: Name=IO35
+Added Pin To Net: NetName=IO36 Pin=14-1
+Added Pin To Net: NetName=IO36 Pin=cc7-2
+Added Pin To Net: NetName=IO36 Pin=ESP32-5
+Added Pin To Net: NetName=IO36 Pin=JP NGAN MACH-4
+Added Net: Name=IO36
+Added Pin To Net: NetName=IO39 Pin=5-1
+Added Pin To Net: NetName=IO39 Pin=cc3-2
+Added Pin To Net: NetName=IO39 Pin=ESP32-4
+Added Pin To Net: NetName=IO39 Pin=JP NGAN MACH-3
+Added Net: Name=IO39
+Added Pin To Net: NetName=MOSI Pin=ESP32-11
+Added Pin To Net: NetName=MOSI Pin=MAN HINH-4
+Added Net: Name=MOSI
+Added Pin To Net: NetName=RES Pin=ESP32-12
+Added Pin To Net: NetName=RES Pin=MAN HINH-5
+Added Net: Name=RES
+Added Pin To Net: NetName=RX1 Pin=ESP32-29
+Added Pin To Net: NetName=RX1 Pin=Qua dong-8
+Added Net: Name=RX1
+Change Class Name : Old Net Name=20211119_mach dong cat New Net Name=20211127_mach duoi NCKH
+Added Member To Class: ClassName=20211127_mach duoi NCKH Member=Component 5 10k
+Added Member To Class: ClassName=20211127_mach duoi NCKH Member=Component 13 10k
+Added Member To Class: ClassName=20211127_mach duoi NCKH Member=Component 14 10k
+Added Member To Class: ClassName=20211127_mach duoi NCKH Member=Component 15 10k
+Added Member To Class: ClassName=20211127_mach duoi NCKH Member=Component 16 10k
+Added Member To Class: ClassName=20211127_mach duoi NCKH Member=Component MAN HINH JP10

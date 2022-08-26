@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=1 Pin=R12-2
+Removed Pin From Net: NetName=2 Pin=R13-2
+Removed Pin From Net: NetName=1 Pin=U1-1
+Removed Pin From Net: NetName=2 Pin=U1-7
+Added Pin To Net: NetName=2 Pin=R12-2
+Added Pin To Net: NetName=1 Pin=R13-2
+Added Pin To Net: NetName=2 Pin=U1-1
+Added Pin To Net: NetName=1 Pin=U1-7
+Added Member To Class: ClassName=20211026_mach do qua dong Member=Component NGAN MACH JP7 PIN

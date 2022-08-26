@@ -1,0 +1,55 @@
+Added Component: Designator=cc3(CN-SMD-0805)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=cc4(CN-SMD-0805)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=cc5(CN-SMD-0805)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=cc6(CN-SMD-0805)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=cc7(CN-SMD-0805)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=cc8(CN-SMD-0805)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=cc9(CN-SMD-0805)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=cc10(CN-SMD-0805)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=cc11(CN-SMD-0805)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=cc12(CN-SMD-0805)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=cc13(CN-SMD-0805)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=cc3-1
+Added Pin To Net: NetName=IO33 Pin=cc3-2
+Added Pin To Net: NetName=GND Pin=cc4-1
+Added Pin To Net: NetName=IO25 Pin=cc4-2
+Added Pin To Net: NetName=GND Pin=cc5-1
+Added Pin To Net: NetName=IO32 Pin=cc5-2
+Added Pin To Net: NetName=GND Pin=cc6-1
+Added Pin To Net: NetName=IO26 Pin=cc6-2
+Added Pin To Net: NetName=GND Pin=cc7-1
+Added Pin To Net: NetName=IO27 Pin=cc7-2
+Added Pin To Net: NetName=GND Pin=cc8-1
+Added Pin To Net: NetName=IO18 Pin=cc8-2
+Added Pin To Net: NetName=GND Pin=cc9-1
+Added Pin To Net: NetName=IO19 Pin=cc9-2
+Added Pin To Net: NetName=GND Pin=cc10-1
+Added Pin To Net: NetName=IO21 Pin=cc10-2
+Added Pin To Net: NetName=GND Pin=cc11-1
+Added Pin To Net: NetName=IO22 Pin=cc11-2
+Added Pin To Net: NetName=GND Pin=cc12-1
+Added Pin To Net: NetName=IO23 Pin=cc12-2
+Added Pin To Net: NetName=GND Pin=cc13-1
+Added Pin To Net: NetName=IO15 Pin=cc13-2
+Added Member To Class: ClassName=20211119_mach dong cat Member=Component cc3 104
+Added Member To Class: ClassName=20211119_mach dong cat Member=Component cc4 104
+Added Member To Class: ClassName=20211119_mach dong cat Member=Component cc5 104
+Added Member To Class: ClassName=20211119_mach dong cat Member=Component cc6 104
+Added Member To Class: ClassName=20211119_mach dong cat Member=Component cc7 104
+Added Member To Class: ClassName=20211119_mach dong cat Member=Component cc8 104
+Added Member To Class: ClassName=20211119_mach dong cat Member=Component cc9 104
+Added Member To Class: ClassName=20211119_mach dong cat Member=Component cc10 104
+Added Member To Class: ClassName=20211119_mach dong cat Member=Component cc11 104
+Added Member To Class: ClassName=20211119_mach dong cat Member=Component cc12 104
+Added Member To Class: ClassName=20211119_mach dong cat Member=Component cc13 104

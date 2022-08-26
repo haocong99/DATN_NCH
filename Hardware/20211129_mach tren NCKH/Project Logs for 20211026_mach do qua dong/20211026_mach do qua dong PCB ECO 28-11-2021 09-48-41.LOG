@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=SW rst-1
+Removed Pin From Net: NetName=RST Pin=SW rst-2
+Added Pin To Net: NetName=RST Pin=SW rst-1
+Added Pin To Net: NetName=GND Pin=SW rst-2
